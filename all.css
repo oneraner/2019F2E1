@@ -1,0 +1,50 @@
+body{
+	background-color: #e3eeff;
+	width: 1024px;
+	height: 768px;
+}
+.date{
+	width: 50%;
+	height: 10%;
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 170px;
+	margin-left: 100px;
+	font-size: 18px;
+}
+}
+p{
+	display: inline-flex;
+	justify-content: center;
+}
+ul li{
+	list-style-type: none; 
+}
+.blue{
+	color: #c5d0e2;
+}
+.red{
+	color: #faada9;
+}
+.flex{
+	height: 90%;
+	width: 100%;
+	display: inline-flex;
+	justify-content: center;
+}
+.todolist{
+	width: 50%;
+	height: 100%;
+	font-size: 28px;
+	display: flex;
+	justify-content: center;
+	padding-right: 70px;
+	margin-top: 60px;
+}
+.clock{
+	width: 50%;
+	height: 100%;
+}
+.paddingleft{
+    padding-left: 5px;
+}
